@@ -1,0 +1,4 @@
+lean-dojo==1.1.2
+torch==2.0.1
+transformers==4.33.2
+vllm==0.1.7
