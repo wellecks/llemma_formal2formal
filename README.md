@@ -1,7 +1,7 @@
 # `llemma` formal2formal 
 
 Scripts for the Lean formal2formal (tactic prediction) experiments in \
-[Llemma: an open language model for mathematics  [Azerbayev et al 2023]]()
+[Llemma: an open language model for mathematics  [Azerbayev et al 2023]](https://arxiv.org/abs/2310.10631)
 
 #### Setup
 Install Python packages:
@@ -46,12 +46,13 @@ llemma34b_minif2f_test  0.2581967213114754      63      244
 ### Citation
 Please cite the following:
 ```
-@article{azerbayev2023llemma,
-    title={Llemma: an open language model for mathematics},
-    author={Zhangir Azerbayev and Hailey Schoelkopf and Keiran Paster and Marco Dos Santos and Stephen McAleer and Albert Q. Jiang and Jia Deng and Stella Biderman and Sean Welleck},
-    eprint={xyz.xyz},
-    archivePrefix={arXiv}
-    year={2023}
+@misc{azerbayev2023llemma,
+      title={Llemma: An Open Language Model For Mathematics}, 
+      author={Zhangir Azerbayev and Hailey Schoelkopf and Keiran Paster and Marco Dos Santos and Stephen McAleer and Albert Q. Jiang and Jia Deng and Stella Biderman and Sean Welleck},
+      year={2023},
+      eprint={2310.10631},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 
